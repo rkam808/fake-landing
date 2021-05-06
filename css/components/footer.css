@@ -1,0 +1,15 @@
+.footer {
+  margin: 0;
+  padding: 10px;
+  width: 100vw;
+  background-color: #37033D;
+  bottom: 0%;
+  color: white;
+  text-align: center;
+  list-style: none;
+}
+
+.footer-icon {
+  color:white;
+  font-size: 32px;
+}
